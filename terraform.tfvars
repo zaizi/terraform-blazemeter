@@ -1,0 +1,6 @@
+aws_profile="default"
+ec2_ami="ami-0aef57767f5404a3c"
+instance_type="t2.micro"
+aws_region="eu-west-1"
+aws_az="eu-west-1a"
+private_key_path="~/.ssh/id_rsa"
